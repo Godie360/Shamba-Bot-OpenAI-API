@@ -1,1 +1,0 @@
-# Shamba-Bot-OpenAI-API
